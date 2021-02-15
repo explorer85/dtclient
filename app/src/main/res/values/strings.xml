@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">dtclient</string>
+    <string name="hello_world">Hello!</string>
+    <string name="acra_error_header">"Генерирую отчет об ошибке"</string>
+    <string name="action_settings">Настройки</string>
+    <string name="title_activity_login">Авторизация</string>
+    <string name="title_activity_chat">ChatActivity</string>
+    <string name="title_activity_settings">Настройки</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+</resources>
